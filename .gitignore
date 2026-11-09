@@ -1,0 +1,13 @@
+# bản build
+build/
+
+# binary tải từ npm (tải lại bằng fetch-agent-browser.sh)
+assets/agent-browser
+
+# state của agent-browser / thư mục làm việc
+home/
+sock/
+
+# token & dữ liệu máy
+*.token
+bridge-token.txt
